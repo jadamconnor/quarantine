@@ -88,12 +88,12 @@
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
 	border-radius: 10px;
-	
+
 }
 
 .bx-wrapper .bx-pager.bx-default-pager a:hover,
 .bx-wrapper .bx-pager.bx-default-pager a.active {
-	background: #36CBD4;
+	background: #ff0000;
 }
 
 /* DIRECTION CONTROLS (NEXT / PREV) */

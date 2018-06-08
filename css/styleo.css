@@ -14,28 +14,6 @@ body {
 	background-color:#333;
 }
 
-.textcenter {
-text-align: center;
-}
-
-.under-quarantine {
-	position: relative;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-	border-radius: 400px;
-}
-
-.image-slider {
-	position: relative;
-	width: 1170px;
-	height: 468px;
-}
-
-.direction-placement {
-	padding-top: 234px
-}
-
 hi,h2,h3,h4,h5,h6 {
 	color:#fff;
 	line-height:1.1em;
@@ -65,8 +43,7 @@ hr {
 
 .logo-home {
 	height: 50px;
-	border-radius: 100px;
-
+  border-radius: 100px;
 }
 .navbar-brand {
   float: left;
@@ -74,7 +51,6 @@ hr {
   padding: 15px 15px;
   font-size: 30px;
   line-height: 20px;
-  /* top: 50px; */
 }
 a.navbar-brand span {
 	color:#fff;
@@ -119,7 +95,7 @@ a.navbar-brand span {
 .nav-tabs > li.active > a {
 	color: #fff;
   cursor: default;
-  background-color:#232323;
+  background-color:#333;
   border: 0;
   border-bottom-color: transparent;
 
@@ -143,12 +119,6 @@ a.navbar-brand span {
 
 .content {
 	margin-top:20px;
-}
-
-#text-center-top {
-text-align: center;
-margin-top: 30px;
-padding-top: 40px
 }
 
 .text-center {
@@ -492,7 +462,7 @@ textarea#message{
  ================= */
 
 footer {
-  background: #333;
+  background: #fff;
 }
 
 .inner-footer  ul li,a  {
@@ -579,20 +549,19 @@ footer {
 
 ul.social-network-top {
 	position: relative;
-	left: 210px;
-	bottom: 30;
+	left: 30px;
 }
 
 ul.social-network-top li {
 		display:inline;
-		margin: 0 8px;
+		margin: 0 15px;
 		color:#6EE5A1;
 }
 	ul.social-network-top li a {
 		color:##ff0000;
 }
 	ul.social-network-top li a:hover {
-		color:#ff0000;
+		color:#36CBD4;
 }
 
 ul.social-network {
@@ -612,7 +581,7 @@ ul.social-network li a {
 	color:##ff0000;
 }
 ul.social-network li a:hover {
-	color:#ff0000;
+	color:#36CBD4;
 }
 
 a.scrollup{

@@ -756,18 +756,7 @@
 .fa-truck:before {
   content: "\f0d1";
 }
-.fa-pinterest:before {
-  content: "\f0d2";
-}
-.fa-pinterest-square:before {
-  content: "\f0d3";
-}
-.fa-google-plus-square:before {
-  content: "\f0d4";
-}
-.fa-google-plus:before {
-  content: "\f0d5";
-}
+
 .fa-money:before {
   content: "\f0d6";
 }
